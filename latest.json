@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.4.7",
-  "publishedAt": "2026-05-28T17:55:00Z",
-  "notes": "LibreChat 0.8.5 compat, in-app update notifications, global logout sync, one-click cookie import, MCP auto-reconnect upgrades."
+  "version": "0.4.8",
+  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.4.8",
+  "publishedAt": "2026-05-29T07:25:00Z",
+  "notes": "⌘L sidebar toggle works across every LibreChat 0.8.5 responsive state (fully collapsed, icon rail, expanded, narrow-viewport mobile overlay)."
 }
