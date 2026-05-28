@@ -2,7 +2,7 @@
 
 Publishes the latest available version of the **LibreChat Mac app**, so the app itself can poll for updates without requiring authentication.
 
-The actual app source lives at <https://github.a8c.com/Automattic/librechat-mac-app> (Automattic-internal GitHub Enterprise). This public repo only holds a small manifest — a pointer to the latest release. The binaries themselves still live behind the VPN-gated GHE instance.
+The actual app source lives at A8C GHE instance. This public repo only holds a small manifest — a pointer to the latest release. The binaries themselves still live behind the VPN-gated GHE instance.
 
 ## How it works
 
