@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
-  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.4.8",
-  "publishedAt": "2026-05-29T07:25:00Z",
-  "notes": "⌘L sidebar toggle works across every LibreChat 0.8.5 responsive state (fully collapsed, icon rail, expanded, narrow-viewport mobile overlay)."
+  "version": "0.4.9",
+  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.4.9",
+  "publishedAt": "2026-05-29T15:04:00Z",
+  "notes": "Fixes panes 2/3 becoming visible-but-unclickable after resizing from a wide window down to a narrow one. Root cause: LibreChat applied the `inert` HTML attribute to the chat container when its mobile-overlay sidebar state was stuck open; the app now strips that attribute via a scoped MutationObserver so clicks, scrolling, and Tab traversal keep working at every viewport width."
 }
