@@ -1,6 +1,6 @@
 {
-  "version": "0.4.11",
-  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.4.11",
-  "publishedAt": "2026-06-02T16:15:55Z",
-  "notes": "Links you click inside a chat now always open in your default browser. Previously, links to wordpress.com (and its subdomains) opened inside the chat pane instead."
+  "version": "0.5.0",
+  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.5.0",
+  "publishedAt": "2026-06-12T11:09:27Z",
+  "notes": "Pin agents for quick access — a chip bar above your chats, a menu bar list, and ⌘1–⌘9 — and set a default agent so new chats start with it. Plus stability and performance fixes."
 }
