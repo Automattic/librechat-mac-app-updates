@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.5.1",
-  "publishedAt": "2026-06-12T12:01:34Z",
-  "notes": "Fixes missing agents in the pin list: if you have 100+ agents, or agents shared with you (e.g. org agents), they now all appear in Preferences → Agents."
+  "version": "0.5.2",
+  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.5.2",
+  "publishedAt": "2026-07-22T14:54:14Z",
+  "notes": "Fixes chat responses disappearing when clicking the chat window after the LibreChat 0.8.7 upgrade (stale chat-cache snapshot of streaming responses)."
 }
