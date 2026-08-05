@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
-  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.5.2",
-  "publishedAt": "2026-07-22T14:54:14Z",
-  "notes": "Fixes chat responses disappearing when clicking the chat window after the LibreChat 0.8.7 upgrade (stale chat-cache snapshot of streaming responses)."
+  "version": "0.5.3",
+  "releaseURL": "https://github.a8c.com/Automattic/librechat-mac-app/releases/tag/v0.5.3",
+  "publishedAt": "2026-08-05T12:26:01Z",
+  "notes": "Every keyboard shortcut is now configurable and findable: Preferences is split into Shortcuts / Agents / General tabs, duplicate bindings are flagged, and there's a Restore defaults button. Adds Focus message box (Cmd-Shift-C) and retires the dead Cmd-R right-panel toggle."
 }
